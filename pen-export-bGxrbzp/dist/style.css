@@ -1,7 +1,11 @@
-body {background:#BEBEBE;}
+body {
+  background:#BEBEBE;
+  color:#f5e484;
+}
+
 p{ 
 
-  background-color: green;
+  background-color: #f5e484;
 
   padding-top:100px; 
 
@@ -35,4 +39,10 @@ min-height:100%;
 
 z-index:-1;  
 
+}
+
+h2{
+  font-size:99pt ;
+  text-align:center ;
+  color: #f5e484;
 }
